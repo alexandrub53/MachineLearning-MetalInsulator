@@ -1,0 +1,58 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Ca4 Mn8 O16'
+_cell_length_a                         3.146239
+_cell_length_b                         9.659762
+_cell_length_c                         9.976702
+_cell_angle_alpha                      90.000000
+_cell_angle_beta                       90.000000
+_cell_angle_gamma                      90.000000
+_cell_volume                           303.211091
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Ca1        1.0     0.685022     0.750000     0.851950    Uiso  ? Ca
+   Ca2        1.0     0.685022     0.250000     0.648050    Uiso  ? Ca
+   Ca3        1.0     0.314978     0.750000     0.351950    Uiso  ? Ca
+   Ca4        1.0     0.314978     0.250000     0.148050    Uiso  ? Ca
+   Mn1        1.0     0.204370     0.068723     0.888057    Uiso  ? Mn
+   Mn2        1.0     0.795630     0.431277     0.388057    Uiso  ? Mn
+   Mn3        1.0     0.204370     0.931277     0.611943    Uiso  ? Mn
+   Mn4        1.0     0.795630     0.568723     0.111943    Uiso  ? Mn
+   Mn5        1.0     0.204370     0.568723     0.611943    Uiso  ? Mn
+   Mn6        1.0     0.795630     0.068723     0.388057    Uiso  ? Mn
+   Mn7        1.0     0.204370     0.431277     0.888057    Uiso  ? Mn
+   Mn8        1.0     0.795630     0.931277     0.111943    Uiso  ? Mn
+   O1         1.0     0.591784     -0.000000     0.750000    Uiso  ? O
+   O2         1.0     0.591784     0.500000     0.750000    Uiso  ? O
+   O3         1.0     0.408216     -0.000000     0.250000    Uiso  ? O
+   O4         1.0     0.408216     0.500000     0.250000    Uiso  ? O
+   O5         1.0     0.193977     0.250000     0.817547    Uiso  ? O
+   O6         1.0     0.806023     0.250000     0.317547    Uiso  ? O
+   O7         1.0     0.806023     0.750000     0.182453    Uiso  ? O
+   O8         1.0     0.193977     0.750000     0.682453    Uiso  ? O
+   O9         1.0     0.798232     0.892799     0.472930    Uiso  ? O
+   O10        1.0     0.201768     0.107201     0.527070    Uiso  ? O
+   O11        1.0     0.201768     0.892799     0.972930    Uiso  ? O
+   O12        1.0     0.201768     0.607201     0.972930    Uiso  ? O
+   O13        1.0     0.798232     0.107201     0.027070    Uiso  ? O
+   O14        1.0     0.798232     0.607201     0.472930    Uiso  ? O
+   O15        1.0     0.798232     0.392799     0.027070    Uiso  ? O
+   O16        1.0     0.201768     0.392799     0.527070    Uiso  ? O
